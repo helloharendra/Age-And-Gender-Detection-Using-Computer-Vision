@@ -1,8 +1,6 @@
 # Age and Gender Detection using Computer Vision
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Age and Gender Detection](images/demo.png)
-
 This project demonstrates an age and gender detection system using computer vision techniques. The goal of this project is to accurately predict the age and gender of individuals from images or video streams. The system utilizes pre-trained deep learning models to perform these predictions and offers a simple and intuitive interface for users to interact with.
 
 ## Table of Contents
@@ -70,8 +68,6 @@ Contributions to this project are welcome! If you encounter any issues or have s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+## Output
 
----
-
-Feel free to customize this README file to match your project structure, details, and preferences. Make sure to include relevant information about how to use the project, the underlying models, and any acknowledgments for external resources used.
 https://user-images.githubusercontent.com/78723011/194758842-b96f93a7-c38a-411a-888f-83e00fd5b54e.mp4
